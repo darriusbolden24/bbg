@@ -821,10 +821,10 @@ h2 {
 
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 280px);
   gap: 28px;
 
-  padding-top: 60px;
+  padding-top: 60px;justify-content: center;
 }
 
 
